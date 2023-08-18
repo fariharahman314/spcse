@@ -1,5 +1,5 @@
 //code for upside down pyramid//
-/*
+
 #include<stdio.h>
 int main()
 {
@@ -21,4 +21,4 @@ int main()
         printf("\n");
     }
     return 0;
-}*/
+}
